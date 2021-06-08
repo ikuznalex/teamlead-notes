@@ -1,5 +1,5 @@
 # Communicating text message practices
-![communicating-text-message](./images/clear-communication.png)
+![communicating-text-message](./images/communicating-text-messages.jpg)
 
 > Ability to communicate clearly is essential skill in modern working environments where communication flows are going continuously.
 > On your style depends how fast and precise the answer for your question will be.
