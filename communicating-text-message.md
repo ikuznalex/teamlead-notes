@@ -1,4 +1,4 @@
-# Clear communication practices
+# Communicating text message practices
 Note: image here.
 
 > Ability to communicate clearly is essential skill in modern working environments where communication flows are going continuously.
