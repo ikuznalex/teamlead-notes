@@ -28,7 +28,7 @@ Be as precise as possible and eliminate details which are not relate to the prob
 
 > Show your respect and ability to solve the reader's problem through the text.
 
-## How? The recipient will use your message.
+## What? Writer's problem does it solve.
 Think how the recipient will use your message. For what purpose he or she could use it?
 
 ## Summary
