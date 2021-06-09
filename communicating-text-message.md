@@ -7,7 +7,7 @@
 When communicating your message to someone there are 3 questions you can ask yourself:
 * Who? is the recipient.
 * What? reader's task or problem does it solve.
-* How? the reader is going to use your message.
+* What? writer's problem does it solve.
 
 ## Who? Is you gonna write. 
 Keep in mind that you should adapt your message for an audience you are trying to write.
