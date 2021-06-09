@@ -1,4 +1,4 @@
-# Communicating text message practices
+# Effective text message communication
 ![communicating-text-message](./images/communicating-text-messages.jpg)
 
 > Ability to communicate clearly is essential skill in modern working environments where communication flows are going continuously.
