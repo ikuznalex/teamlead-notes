@@ -11,9 +11,10 @@ When communicating your message to someone there are 3 questions you can ask you
 
 ## Who? Is you gonna write. 
 Keep in mind that you should adapt your message for an audience you are trying to write.
-If you write to business person - remove all the language and details he will not aware of.
-If you write to technical guy, use technical terms freely.
-If you write to a child, use a fairytale.
+ - If you write to a child, use a fairytale.
+ - If you write to business person - remove all the language and details he will not aware of.
+ - If you write to technical guy, use technical terms freely.
+
 
 > Remember that ability to explain complex ideas in simple words is one of the most valuable soft skills.
 
