@@ -30,7 +30,7 @@ Be as precise as possible and eliminate details which are not relate to the prob
 
 > Show your respect and ability to solve the reader's problem through the text.
 
-## What? Writer's problem does it solve.
+## What? writer's problem does it solve.
 
 
 ## Summary
