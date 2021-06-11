@@ -36,6 +36,10 @@ Be as precise as possible and eliminate details which are not relate to the prob
 ## Summary
 
 
+#### TDB
+add - do not expect immediate answer.
+
+
 
 
 
