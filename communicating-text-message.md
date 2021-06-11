@@ -12,18 +12,19 @@ When communicating your message to someone there are 3 questions you can ask you
 ## Who? Is you gonna write. 
 Keep in mind that you should adapt your message for an audience you are trying to write.
 Consider that you are trying to explain something to a child. Usually you use metaphors, fairytales or images.
-Basically you tune your speech for the audience. The same approach could be used in work communication.
- - If you write to a child, use a fairytale.
- - If you write to business person - remove all the language and details he will not aware of.
- - If you write to technical guy, use technical terms freely.
+Basically you tune your speech for the audience. The same approach could be used in the work communication.
+Generally:
+ * If you write to business person - remove all the language and details he will not aware of.
+ * If you write to technical guy, use technical terms freely.
 
 > Remember that ability to explain complex ideas in simple words is one of the most valuable soft skills.
 
 ## What? reader's task or problem does it solve.
-Think about the problem you are solving.
-Remove all details that does not accommodate the goal or problem. 
-Generally, I suggest to use problem -> solution approach. That means that at the beginning you announce problem and then solution.  
-When trying to explain your solution, try to explain it with asking 5 WH questions and 1 How.
+* Think about the problem you are solving.
+* Remove all details that does not accommodate the goal or problem. 
+Generally, I suggest to use problem -> solution approach. That means that at the beginning you announce problem and then solution.    
+
+When trying to explain your solution, try to explain it with asking 5 WH questions and 1 How.  
 Good practice is to put the core message to the beginning. This way the reader will catch main idea and the other part of the message will be an addition to it.
 Be as precise as possible and eliminate details which are not relate to the problem.
 
