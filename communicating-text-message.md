@@ -22,9 +22,9 @@ Generally:
 ## What? reader's task or problem does it solve.
 * Think about the problem you are solving.
 * Remove all details that does not accommodate the goal or problem. 
-Generally, I suggest to use problem -> solution approach. That means that at the beginning you announce problem and then solution.    
+I suggest to use problem (+relevance) -> solution approach. That means that at the beginning you announce the problem and it's relevance and then solution.    
 
-When trying to explain your solution, try to explain it with asking 5 WH questions and 1 How.  
+When trying to explain your solution, ask 5 WH questions and 1 How to your explanation.  
 Good practice is to put the core message to the beginning. This way the reader will catch main idea and the other part of the message will be an addition to it.
 Be as precise as possible and eliminate details which are not relate to the problem.
 
