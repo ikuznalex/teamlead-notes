@@ -38,6 +38,7 @@ Be as precise as possible and eliminate details which are not relate to the prob
 
 #### TDB
 add - do not expect immediate answer.
+the less additional questions you asked - the better.
 
 
 
