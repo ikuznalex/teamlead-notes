@@ -21,8 +21,8 @@ Keep in mind that you should adapt your message for an audience you are trying t
 ## What? reader's task or problem does it solve.
 Think about the problem you are solving.
 Remove all details that does not accommodate the goal or problem. 
-Generally, I suggest to use problem -> solution approach. That means that at the beginning you announce problem and then solution. 
-When trying to explain your solution, try to explain it with asking 5 WH questions and 1 how.
+Generally, I suggest to use problem -> solution approach. That means that at the beginning you announce problem and then solution.  
+When trying to explain your solution, try to explain it with asking 5 WH questions and 1 How.
 Good practice is to put the core message to the beginning. This way the reader will catch main idea and the other part of the message will be an addition to it.
 Be as precise as possible and eliminate details which are not relate to the problem.
 
