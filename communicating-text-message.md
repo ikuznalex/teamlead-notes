@@ -9,7 +9,7 @@ When communicating your message to someone there are 3 questions you can ask you
 * What? reader's task or problem does it solve.
 * What? writer's problem does it solve.
 
-## Who? Is you gonna write. 
+## Who? is you gonna write. 
 Keep in mind that you should adapt your message for an audience you are trying to write.
 Consider that you are trying to explain something to a child. Usually you use metaphors, fairytales or images.
 Basically you tune your speech for the audience. The same approach could be used in the work communication.
