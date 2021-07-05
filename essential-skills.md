@@ -5,3 +5,4 @@
 * Time - management
    * Time-blocking practice 
 * Effective communication
+   * Ability to ask the right questions to the right people 
