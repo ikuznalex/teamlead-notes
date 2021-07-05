@@ -3,4 +3,5 @@
 * Master fast typing skills
 * Learn shortcuts for operation system and tools you are using
 * Time - management
+   * Time-blocking practice 
 * Effective communication
