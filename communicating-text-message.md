@@ -82,6 +82,29 @@ Good text is the same [as good question os the StackOverFlow](https://stackoverf
 * Good formatting
 
 
+## Useful Links
+* https://plainlanguage.gov/ 
+   * Plain language makes it easier for the public to read, understand, and use government communications.
+* https://rewordify.com/ 
+   * Simplifies difficult English.
+* https://blog.hubspot.com/sales/weasel-words-sales-conversations 
+   * Article about the Weasel words.
+
+### Services to test your text
+* https://readable.com/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier 
+* http://www.hemingwayapp.com/ 
+* https://hackernoon.com/lint-lint-and-away-linters-for-the-english-language-70f4b22cc73c 
+   * List with linters for the text
+
+### Learning 
+* https://developers.google.com/tech-writing 
+   * Course about tech writing from Google
+* https://developers.google.com/style 
+* https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm 
+
+### Thanks
+Part of points were taken from Lana Novikova's speech. 
+Telegram: @Lananovikova.
 
 #### TDB
 add - do not expect immediate answer.
