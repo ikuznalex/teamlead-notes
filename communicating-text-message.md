@@ -15,7 +15,7 @@ When communicating your message to someone there are 3 questions you can ask you
 * What? reader's task or problem does it solve.
 * What? business problem does it solve.
 
-## Whom? is you gonna write. 
+## Whom? Is you gonna write. 
 Keep in mind that you should adapt your message for an audience you are trying to write.
 Consider that you are trying to explain something to a child. Usually you use metaphors, fairytales or images.
 Basically you tune your speech for the audience. The same approach could be used in the work communication.
@@ -26,7 +26,7 @@ Also think about how your text will be used.
 
 > Remember that ability to explain complex ideas in simple words is one of the most valuable soft skills.
 
-## What? reader's task or problem does it solve.
+## What? Reader's task or problem does it solve.
 * Think about the problem you are solving.
 * Remove all details that does not accommodate the goal or problem. 
 I suggest to use problem (+relevance) -> solution approach. That means that at the beginning you announce the problem and it's relevance and then solution.    
@@ -56,6 +56,8 @@ Think how you gonna solve the problem. Describe the solution in the most simple 
 * Prefer Active voice.
 * Use short paragraphs. This way your text will be easier for quick glancing and catching the main idea.
 * Use frinedly tone, dont be rude.
+
+
 ### Try to avoid
 * Judgments: simply ,easily, hardly and others.
 * Not definitive words: technically, probably, literally, a bit, basically, just, seems, somehow.
