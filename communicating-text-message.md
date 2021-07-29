@@ -1,5 +1,4 @@
-# Text communication practices
-![communicating-text-message](./images/communicating-text-messages.jpg)
+# Text message communication practices
 
 > Ability to communicate clearly is essential skill in modern working environments where communication flows are going continuously.
 > On your style depends how fast and precise the answer for your question will be.
@@ -83,6 +82,7 @@ Good text is the same [as good question os the StackOverFlow](https://stackoverf
 * With clear and concrete subject 
 * Good formatting
 
+![communicating-text-message](./images/communicating-text-messages.jpg)
 
 ## Useful Links
 * https://plainlanguage.gov/ 
