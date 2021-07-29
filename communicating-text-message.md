@@ -110,8 +110,6 @@ Telegram: @Lananovikova.
 
 #### TDB
 add - do not expect immediate answer.
-Update the picture at the beginning.
-Add useful links.
 
 
 
