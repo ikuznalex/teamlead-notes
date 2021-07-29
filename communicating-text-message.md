@@ -108,8 +108,6 @@ Good text is the same [as good question os the StackOverFlow](https://stackoverf
 Part of points were taken from Lana Novikova's speech. 
 Telegram: @Lananovikova.
 
-#### TDB
-add - do not expect immediate answer.
 
 
 
